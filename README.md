@@ -1,5 +1,7 @@
 # Auto-DeskTop
 Mouse auto-clicker
+
+
 <img width="412" alt="软件界面1" src="https://github.com/lv1585870087/Auto-DeskTop/assets/45760920/51dc8138-d33e-46ab-a345-b0dcb8df9dc5">
 
 
